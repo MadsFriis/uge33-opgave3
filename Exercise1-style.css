@@ -1,0 +1,24 @@
+label {
+    display: flex;
+}
+
+.grid-container {
+    display: grid;
+    max-width: 600px;
+}
+
+.grid-item-1{
+    grid-column: 1;
+}
+.grid-item-2{
+    grid-column: 2;
+}
+
+.gender-checkbox{
+    content: left;
+}
+
+.facebook-3-2{
+    height: 120px;
+    width: 120px;
+}
